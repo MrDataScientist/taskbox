@@ -12,6 +12,7 @@
     "src/**/*.d.ts"
   ],
   "exclude": [
-    "**/*.stories.*"
+    "**/*.stories.*",
+    "src/test.ts", "src/**/*.spec.ts", "**/*.stories.ts", "src/jest-config"
   ]
 }
